@@ -1,8 +1,8 @@
 # One Line, One Laugh
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![make.fun](https://img.shields.io/badge/make.fun-One%20Line%2C%20One%20Laugh-blue)
-![Node](https://img.shields.io/badge/node-%3E%3D22-green)
+[![make.fun · u-plucky-finch-20-one-line-one-laugh-0ffe66ea](https://make.fun/badge/u-plucky-finch-20-one-line-one-laugh-0ffe66ea.svg)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea?utm_source=github&utm_medium=readme&utm_campaign=u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
+[![rank](https://make.fun/badge/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/hioraeriska/one-line-laugh-plucky-01/rank.svg)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
+[![reward](https://make.fun/badge/u-plucky-finch-20-one-line-one-laugh-0ffe66ea/hioraeriska/one-line-laugh-plucky-01/reward.svg)](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea?utm_source=github&utm_medium=readme&utm_campaign=u-plucky-finch-20-one-line-one-laugh-0ffe66ea)
 
 Entry for the make.fun bounty **One Line, One Laugh** (sponsor mydream):
 a program that writes one funny line, at most 200 characters, to
